@@ -1,1 +1,3 @@
 # fluxbox-config
+## Location
+~/.fluxbox
