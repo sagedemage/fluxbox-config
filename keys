@@ -58,7 +58,8 @@ Mod4 8 :Tab 8
 Mod4 9 :Tab 9
 
 # open a terminal
-Mod4 Return :Exec lxterminal
+Mod4 Return :Exec alacritty
+#Mod4 Return :Exec lxterminal
 
 # rofi
 Mod4 r :Exec rofi -show run
@@ -82,7 +83,7 @@ Mod4 c :Exec pavucontrol
 160 :Exec amixer sset Master,0 toggle
 
 # current window commands
-Mod4 Shift c :Close
+Mod4 Shift x :Close
 Mod4 F5 :Kill
 Mod4 F9 :Minimize
 Mod4 F10 :Maximize
