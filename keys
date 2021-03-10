@@ -74,7 +74,7 @@ Mod1 F2 :Exec fbrun
 Mod4 b :Exec chromium
 
 # pavucontrol
-Mod4 v :Exec pavucontrol
+Mod4 v :Exec pulseeffects
 
 # volume settings, using common keycodes
 # if these don't work, use xev to find out your real keycodes

@@ -14,11 +14,11 @@ xmodmap "/home/salmaan/.Xmodmap"
 # wmnd &
 # wmsmixer -w &
 # idesk &
-~/.fehbg &
 redshift-gtk &
 nm-applet &
 volumeicon &
 unclutter &
+~/.fehbg &
 
 # And last but not least we start fluxbox.
 # Because it is the last app you have to run it with ''exec'' before it.
